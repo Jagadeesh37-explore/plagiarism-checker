@@ -1,1 +1,2 @@
-# plagiarism-checker
+# plagiarism-detector-app
+
